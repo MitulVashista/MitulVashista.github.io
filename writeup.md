@@ -1,8 +1,8 @@
 ---
 title: "Billboard-Top-100-Lyrics"
-author: "Juhee Lee (jl2755), Yinan Wen (yw654), Kevin Schaich (krs252)"
+author: "Mitul Vashista (B20AI022), Neehal Bajaj (B20AI026)"
 output: pdf_document
-date: "April 28, 2016"
+date: "April 28, 2023"
 geometry: margin=1in, paperwidth=8.5in
 linestretch: 1.25
 fontsize: 10pt
