@@ -5,10 +5,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "npm run dev",
+    "dev": "react-scripts dev",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "npm run build",
+    "build": "react-scripts build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
